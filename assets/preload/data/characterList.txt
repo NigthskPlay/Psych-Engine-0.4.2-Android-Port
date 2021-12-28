@@ -17,5 +17,8 @@ gf-pixel
 senpai
 senpai-angry
 spirit
-bf-pixel-opponent
-pico-player
+Template1
+Template2
+Template3
+Template4
+Template5
